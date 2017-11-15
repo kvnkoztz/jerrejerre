@@ -1,2 +1,0 @@
-# jerrejerre
-Proyecto Prueba JerreJerre
