@@ -1,0 +1,11 @@
+ARCHIVO CONFIG.PHP
+
+1. $ServerName = El nombre del servidor PHP
+2. $PortServer = Puerto usado por el servidor PHP
+3. $MysqlServer = Nombre del servidor de MySQL
+4. $PortMySQL = Puerto usado por el servidor MySQL
+5. $DataBaseName = Nombre de la base de datos
+6. $UserNameDB = Nombre de usuario de la base de datos
+7. $Pass = Contraseña de la base de datos
+8. $NombreProyecto = Nombre de la carpeta donde se encuentra el proyecto
+9. $UrlBase = Define cual es la url basica del proyecto
